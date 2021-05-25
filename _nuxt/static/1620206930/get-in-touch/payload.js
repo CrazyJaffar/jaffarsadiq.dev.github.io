@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/get-in-touch", {data:[{}],fetch:[],mutations:void 0});
